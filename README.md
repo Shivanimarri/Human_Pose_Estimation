@@ -1,1 +1,1 @@
-# Huma_Pose_Estimation
+# Human Pose Estimation
